@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Sahil Sawant! 👋
 
-<!--
-**sahilrsawant/sahilrsawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc IT Student | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+I'm an IT student interested in software development, artificial intelligence, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Pursuing BSc IT
+- 💡 Interested in Full Stack Development and AI
+- 🔍 Exploring new technologies
+- 🛠️ Building academic and personal projects
+- 🎯 Always eager to learn and improve my technical skills
+
+### 🛠️ Technical Skills
+- **Programming:** Python, C, C++
+- **Web:** HTML, CSS, JavaScript, PHP
+- **Database:** SQL, MongoDB
+- **Tools:** VS Code, Linux
+
+### 📂 Projects
+- Privacy Policy Analyzer – Browser Extension (In Progress)
+- Society Loan Provider Management System
+
+### 🤝 Connect With Me
+- Instagram: [@mr.sawant__23](https://www.instagram.com/mr.sawant__23/)
+
+---
+⭐ Learning, Exploring and Building!
